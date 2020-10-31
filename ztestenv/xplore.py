@@ -1,10 +1,7 @@
 
-list_0 = ["apple","pear","grape"]
-print (list_0)
-list_cpy = list_0[:]
+# temp = eval(input( ' Enter a temperature in Celsius: ' ))
+# print( ' In Fahrenheit, that is ' , 9/5 * temp+32)
 
-# item = list_cpy.pop()
-# print (item)
-list_cpy.append("melon")
-print (list_cpy)
-print (list_0)
+num1 = eval(input( ' Enter the first number: ' ))
+num2 = eval(input( ' Enter the second number: ' ))
+print( ' The average of the numbers you entered is ' , (num1+num2)/2)
