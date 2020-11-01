@@ -1,6 +1,6 @@
 
-# temp = eval(input( ' Enter a temperature in Celsius: ' ))
-# print( ' In Fahrenheit, that is ' , 9/5 * temp+32)
+temp = eval(input( ' Enter a temperature in Celsius: ' ))
+print( ' In Fahrenheit, that is ' , 9/5 * temp+32)
 
 num1 = eval(input( ' Enter the first number: ' ))
 num2 = eval(input( ' Enter the second number: ' ))
